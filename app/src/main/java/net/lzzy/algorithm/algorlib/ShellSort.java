@@ -1,7 +1,7 @@
 package net.lzzy.algorithm.algorlib;
 
 /**
- * Created by lzzy_gxy on 2019/6/15.
+ * Created by lzzy_gxy on 2019/6/28.
  * Description:
  */
 public class ShellSort <T extends Comparable<? super T>>extends BaseSort<T> {
