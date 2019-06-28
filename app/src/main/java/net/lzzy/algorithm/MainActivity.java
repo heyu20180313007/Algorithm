@@ -15,7 +15,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Integer[] items;
     private EditText edtItems;
-    private TextView tvResult;
+    private TextView tvResult;/////
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
